@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Evidence【PVフルver.】 / Daisy×Daisy",
+  "base_artist": "Daisy×Daisy",
+  "createdAt": "2026-03-06T17:50:54.150117Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Evidence",
+      "artist": "Daisy×Daisy",
+      "has_synced": false,
+      "path": "select/pl_01_Evidence_Daisy×Daisy.txt"
+    }
+  ]
+}
